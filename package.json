@@ -2,7 +2,7 @@
   "name": "react-country-state-city-selectbox",
   "version": "1.0.0",
   "description": "select combo box for country, state, city",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/bpsingh2022/react-country-state-city-selectbox.git"
   },
-  "keywords": [],
+  "keywords": [
+    "country",
+    "city",
+    "state",
+    "india",
+    "selectbox"
+  ],
   "author": "bpsingh",
   "license": "MIT",
   "bugs": {
