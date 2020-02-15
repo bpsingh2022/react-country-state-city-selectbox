@@ -1,7 +1,7 @@
 {
   "name": "react-country-state-city-selectbox",
   "version": "1.0.0",
-  "description": "select combo box for country, state, city",
+  "description": "html select combo box for country, state, city",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,7 +24,5 @@
     "url": "https://github.com/bpsingh2022/react-country-state-city-selectbox/issues"
   },
   "homepage": "https://github.com/bpsingh2022/react-country-state-city-selectbox#readme",
-  "dependencies": {
-    "react": "^16.12.0"
-  }
+  "dependencies": {}
 }

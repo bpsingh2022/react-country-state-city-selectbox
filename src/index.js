@@ -1,4 +1,3 @@
-import React from 'react';
 
 export const city = [
     {id: 1, name: "Ahmedabad", state: "gujarat", country: "india" },
@@ -36,10 +35,8 @@ export const country = [
     {id:1, name: "india", countryCode: 91}
 ];//endCountry;
 
-export default ()=>{
-
+export default (country=false, state=false, city=false)=>{
+// if(country || state || city)
 return(
-<>
-<div>test for bobby</div>
-</>
+    <div>test for bobby</div>
 )};//end;
