@@ -17,10 +17,14 @@
     "india",
     "selectbox"
   ],
+  "private": false,
   "author": "bpsingh",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bpsingh2022/react-country-state-city-selectbox/issues"
   },
-  "homepage": "https://github.com/bpsingh2022/react-country-state-city-selectbox#readme"
+  "homepage": "https://github.com/bpsingh2022/react-country-state-city-selectbox#readme",
+  "dependencies": {
+    "react": "^16.12.0"
+  }
 }
